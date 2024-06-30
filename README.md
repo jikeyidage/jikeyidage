@@ -1,7 +1,5 @@
 ### Hi there 👋
-🔭My name is jikeyidage, a Chinese student who is studying in Peking University.  
-🌱Currently,I am learning coding(especially with c++) .  
-📫If you want to talk with me,email me to 3094215902@qq.com  
+🔭My name is jikeyidage, a Chinese student who is studying in Peking University.   
 😄I am glad to have a talk with you.
 
 
